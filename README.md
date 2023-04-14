@@ -2,7 +2,7 @@
 LEGRAND Joachim <br>
 BACCAR Skander <br>
 Are Dynamic <br>
-Quels sont les facteurs qui affectent les marées ? <br>
+ # Problématique : Comment prédire une marée à un endroit donné ? 
 - Attraction de la Lune (et du Soleil) <br>
 - Force centrifuge de la Terre <br>
 - Deux types de marées : marées de vives-eaux et marées de mortes-eaux <br>
