@@ -16,6 +16,7 @@ Les marées sont formées grâce à l'attraction de la Lune et du Soleil sur la 
 Pour notre modélisation nous avons pris en compte 2 paramètres qui vont essayer de nous permettre de prédire une marée à un endroit donné : 
 - Le cycle lunaire car en effet la Lune ( si c'est la pleine Lune ou si c'est le premier quartier) est un facteur important à prendre compte si l'on veut prédire une marée.
 - Le calendrier des marées car les marées sont de cycles périodiques et donc si l'on possède le calendirer des marées alors cela nous aideras à prédire la marée.
+Schéma de l'idée du graphique après prédiction : 
 ![Schéma de l'idée du graphique après prédiction](https://github.com/are-dynamic-2023-g004/Projetmarees.github.io/blob/main/IMG_0019.jpg)
 
 
