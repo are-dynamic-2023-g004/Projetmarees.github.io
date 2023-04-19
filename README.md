@@ -18,5 +18,6 @@ Pour notre modélisation nous avons pris en compte 2 paramètres qui vont essaye
 - Le calendrier des marées car les marées sont de cycles périodiques et donc si l'on possède le calendirer des marées alors cela nous aideras à prédire la marée.
 Schéma de l'idée du graphique après prédiction : 
 ![Schéma de l'idée du graphique après prédiction](https://github.com/are-dynamic-2023-g004/Projetmarees.github.io/blob/main/IMG_0019.jpg)
+- Dans ce schéma representant la prédiction de la marée un jour donnée, on a 2 informations qui sont la hauteur de la marée sur l'axe des y et l'heure correspondant à chaque hauteur sur l'axe des x ce qui nous permet donc de savoir quans est-ce que aura lieu la basse mer ou la haute mer mais également la hauteur de celle-ci.
 
 
