@@ -26,7 +26,9 @@ Schéma de l'idée du graphique après prédiction :
 
 ## Représentation graphique: 
 La représentation graphique pour la prédiction de la marée a été faite à partir d'un code python qui à la fin donne un graphique dans lequel nous retrouvons les informations les plus importantes qui sont la hauteur de la marée en fonction de l'heure ce qui nous permet de savoir quel type de marée il s'agit mais également à quel moment elle va avoir lieu.
+
 ![Graphique prédiction marée](https://github.com/are-dynamic-2023-g004/Projetmarees.github.io/blob/main/Capture%20d’écran.jpg)
+
 
 
 
