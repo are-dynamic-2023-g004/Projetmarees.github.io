@@ -4,7 +4,7 @@ BACCAR Skander <br>
 ## Problématique : 
 Comment prédire une marée à un endroit donné ? 
 ## Introduction :
-## La formation des marées :
+## La formation et les types de marées :
 - Attraction de la Lune (et du Soleil) 
 - Force centrifuge de la Terre 
 - Deux types de marées : marées de vives-eaux et marées de mortes-eaux 
