@@ -29,6 +29,8 @@ La représentation graphique pour la prédiction de la marée a été faite à p
 
 ![Graphique prédiction marée](https://github.com/are-dynamic-2023-g004/Projetmarees.github.io/blob/main/IMG_0021.PNG)
 
+## Conclusion : 
+Pour conclure nous avons essayé de prédire les marées en prenant en compte deux facteurs impactant celle-ci, mais cela reste tout de même plus complexe du fait qu'il y a plus de facteurs a prendre en compte pour la prédiction d'une marée (conditions météorologiques, profondeur de l'eau ou encore les courants) mais qui rendrait le code à écrire beaaucoup plus complexe et qui devrait prendre en compte plus de paramètres. C'est pour cela que nous avons pris les deux paramètres qui permettent de prédire une marée même si cela n'est pas extrêmement précis.
 
 
 
