@@ -1,11 +1,10 @@
-# Projet-marees
+# Projet sur les marées
 LEGRAND Joachim <br>
 BACCAR Skander <br>
-Are Dynamic <br>
 ## Problématique : 
 Comment prédire une marée à un endroit donné ? 
 ## Introduction :
-## Formation des marées :
+## La formation des marées :
 - Attraction de la Lune (et du Soleil) 
 - Force centrifuge de la Terre 
 - Deux types de marées : marées de vives-eaux et marées de mortes-eaux 
